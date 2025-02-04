@@ -1,4 +1,4 @@
-<h1 align="center"> Tarefa 2 - Controle de LEDs com Temporizador One Shot e Botão ⏳💡🎛️</h1>
+<h1 align="center">⏳💡Tarefa 2 - Controle de LEDs com Temporizador One Shot e Botão</h1>
 
 <h2 align="center">📝 Descrição do Projeto</h2>
 
